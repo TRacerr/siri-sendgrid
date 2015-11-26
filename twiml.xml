@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-  <Say>You are awesome.</Say>
+  <Say>Why did the chicken cross the road?</Say>
+</Response>
+
+<Response>
+    <Dial timeout="10" record="true">447540622299</Dial>
+    <Say>Do you know why the chicken crossed the road?</Say>
 </Response>

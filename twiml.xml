@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-  <Say>You are awesome.</Say>
+  <Say>are you awesome? Tell me how.</Say>
+  <Record maxLength="20" />
 </Response>
